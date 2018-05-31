@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "heapdump": "^0.3.9",
+    "iconv": "^2.3.0",
+    "iconv-lite": "^0.4.23"
+  }
+}
